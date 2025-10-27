@@ -17,7 +17,7 @@
 npx @agenticsql/cli
 
 ✨ Features
-- AI-Powered Schema Generation - Claude 3.5 Haiku analyzes your code
+- AI-Powered Schema Generation 
 - GitHub Auto-Deploy - Push to deploy automatically
 - Real-Time Management - Studio dashboard for your databases
 - Free Tier - Start with Dreamer Plan
